@@ -21,3 +21,5 @@ computer,
 - git remote add origin is used to point
   to which location exactly im pushing
   the work 2
+
+GIT REBATE
