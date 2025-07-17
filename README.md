@@ -2,7 +2,7 @@
 
 First commit 
 
-These are the commands I would run to make my first commit. I do not have a laptop to do this at the moment 
+These are the commands I would run to make my first commit.
 
 
 git init
